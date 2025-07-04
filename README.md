@@ -81,15 +81,79 @@ Descripcion
 
 ![image](./img/particionado_disco18.png)
 
-![image](./img/)
+![image](./img/particionado_disco19.png)
 
-![image](./img/)
+![image](./img/particionado_disco20.png)
 
-![image](./img/)
+![image](./img/particionado_disco21.png)
 
-![image](./img/)
+![image](./img/particionado_disco22.png)
 
-![image](./img/)
+![image](./img/particionado_disco23.png)
+
+![image](./img/particionado_disco24.png)
+
+![image](./img/particionado_disco25.png)
+
+![image](./img/particionado_disco26.png)
+
+![image](./img/particionado_disco27.png)
+
+![image](./img/particionado_disco28.png)
+
+![image](./img/particionado_disco29.png)
+
+![image](./img/particionado_disco30.png)
+
+![image](./img/particionado_disco31.png)
+
+![image](./img/particionado_disco32.png)
+
+![image](./img/particionado_disco33.png)
+
+![image](./img/particionado_disco34.png)
+
+![image](./img/particionado_disco35.png)
+
+![image](./img/particionado_disco36.png)
+
+![image](./img/particionado_disco37.png)
+
+![image](./img/particionado_disco38.png)
+
+![image](./img/particionado_disco39.png)
+
+![image](./img/particionado_disco40.png)
+
+![image](./img/particionado_disco41.png)
+
+![image](./img/particionado_disco42.png)
+
+![image](./img/particionado_disco43.png)
+
+![image](./img/particionado_disco44.png)
+
+![image](./img/particionado_disco45.png)
+
+![image](./img/particionado_disco47.png)
+
+![image](./img/particionado_disco48.png)
+
+![image](./img/particionado_disco49.png)
+
+![image](./img/particionado_disco50.png)
+
+![image](./img/grub-pc.png)
+
+![image](./img/grub-pc2.png)
+
+![image](./img/instalacion_terminada.png)
+
+![image](./img/encription_pass.png)
+
+![image](./img/log_in.png)
+
+![image](./img/post_login.png)
 
 ![image](./img/)
 
