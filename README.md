@@ -51,6 +51,7 @@ Descripcion
 
 ![image](./img/particionado_disco3.png)
 
+seleccionar EXPACIO LIBRE
 ![image](./img/particionado_disco4.png)
 
 ![image](./img/particionado_disco5.png)
